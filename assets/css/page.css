@@ -1,0 +1,85 @@
+body,html{
+ padding:0px;
+ margin:0px; 
+}
+#container{
+width:800px;
+padding:0px;
+margin:0px auto;
+}
+#header{
+background-color:#000000;	
+}
+#header h1{
+color:#FFFFFF;
+padding:10px;
+text-align:center;	
+}
+#footor{
+background-color:#54A7F5;
+width:800px;
+float:left;
+}
+#footor p{
+padding:10px;
+text-align:center;
+color:#FFFFFF;	
+}
+#body{
+width:800px;
+float:left;
+padding:10px;
+margin:0px;	
+}
+
+#left_body{
+width:200px;
+float:left;	
+}
+#left_body ul{
+padding:0px;
+margin:0px;
+list-style:none;
+}
+#left_body ul li{
+padding:10px;
+margin:0px;
+border-bottom:1px #000000 solid;
+}
+
+#left_body ul li:hover{
+border-bottom:1px #54A7F5 solid;
+}
+#left_body ul li a{
+text-decoration:none;
+color: #111;
+}
+#right_body{
+width:580px;
+float:right;	
+}
+#right_body form{
+width:100%;	
+}
+#right_body table{
+width:100%;	
+}
+#right_body input{
+width:100%;	
+}
+#right_body h1{
+padding:10px;
+margin:0px;
+font-size:20px;	
+color:#FF0000;
+text-align:center;
+}
+
+#right_body table{
+width:100%;
+text-align:center;
+}
+#right_body table td img{
+width:400px;	
+height:400px;
+}
